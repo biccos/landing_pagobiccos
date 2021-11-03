@@ -2195,6 +2195,10 @@ SECTION MARGIN
     border: none;
 }
 
+.page-scroll:hover {
+    text-decoration: underline !important;
+}
+
 .tabs-left > .nav-tabs, .nav-center > .nav-tabs {
     border-bottom: none;
 }
