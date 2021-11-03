@@ -1074,6 +1074,7 @@ SECTION MARGIN
     display: table;
     height: 550px;
     width: 100%;
+    text-align: left;
 }
 
 .hero-content{
