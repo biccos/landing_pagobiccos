@@ -1668,7 +1668,7 @@ SECTION MARGIN
 
 /*hero video bg css*/
 #hero-section {
-    background: linear-gradient(150deg, #650A18 15%, #C41832 70%, #C91330 94%);
+    /*background: linear-gradient(150deg, #650A18 15%, #C41832 70%, #C91330 94%);*/
 }
 
 #hero-section .video-section-wrap-two{
