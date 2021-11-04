@@ -1343,7 +1343,7 @@ SECTION MARGIN
 }
 
 .mobile-slider::before {
-    background: rgba(0, 0, 0, 0) url("../img/mockup_top.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../../img/landing-theme/mockup_top.png") no-repeat scroll center center / cover;
     border-radius: 0 0 50px 50px;
     content: "";
     height: 16px;
@@ -1598,7 +1598,7 @@ SECTION MARGIN
 }
 
 .river-wave {
-    background: url('../img/wave.svg') repeat-x;
+    background: url('../../img/landing-theme/wave.svg') repeat-x;
     position: absolute;
     top: -100px;
     width: 6400px;
@@ -1887,7 +1887,7 @@ SECTION MARGIN
     background: #650A18;
 }
 .phone-carousel .phone .header-slider:before{
-    background: rgba(0, 0, 0, 0) url(../img/mockup_top.png) no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../../img/landing-theme/mockup_top.png") no-repeat scroll center center / cover;
     border-radius: 0 0 50px 50px;
     content: "";
     height: 16px;
