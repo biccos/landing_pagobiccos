@@ -1994,6 +1994,7 @@ SECTION MARGIN
 }
 .single-promo-content p{
     margin-bottom: 25px;
+    text-align: justify;
 }
 .single-promo-section .line{
     width: 100%;
