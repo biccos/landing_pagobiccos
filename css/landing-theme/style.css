@@ -2526,7 +2526,7 @@ SECTION MARGIN
 }
 .product-counter-section .counter-list .title {
     display: block;
-    font-size: 16px;
+    font-size: 13px;
 }
 .product-counter-section .counter-list li:nth-child(3n+1) .count {
     color: #650A18;
