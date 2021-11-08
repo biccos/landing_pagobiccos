@@ -1317,7 +1317,12 @@ SECTION MARGIN
 }
 
 .section-circle .shape-style-1.shape-primary {
-    background: linear-gradient(150deg, #650A18 15%, #C41832 70%, #C91330 94%);
+    /*background: linear-gradient(150deg, #650A18 15%, #C41832 70%, #C91330 94%);*/
+    background: -webkit-linear-gradient(150deg, rgba(0, 34, 60, 1) 15%, rgba(0, 48, 87, 1) 70%, rgba(20, 102, 167, 1) 94%);
+    background: -moz-linear-gradient(150deg, rgba(0, 34, 60, 1) 15%, rgba(0, 48, 87, 1) 70%, rgba(20, 102, 167, 1) 94%);
+    background: -ms-linear-gradient(150deg, rgba(0, 34, 60, 1) 15%, rgba(0, 48, 87, 1) 70%, rgba(20, 102, 167, 1) 94%);
+    background: -o-linear-gradient(150deg, rgba(0, 34, 60, 1) 15%, rgba(0, 48, 87, 1) 70%, rgba(20, 102, 167, 1) 94%);
+    background: linear-gradient(150deg, rgba(0, 34, 60, 1) 15%, rgba(0, 48, 87, 1) 70%, rgba(20, 102, 167, 1) 94%);
 }
 
 
