@@ -2933,7 +2933,7 @@ SECTION MARGIN
     background: -ms-linear-gradient(150deg, rgba(0, 34, 60, 0.65) 15%, rgba(0, 48, 87, 0.65) 70%, rgba(20, 102, 167, 0.65) 94%);
     background: -o-linear-gradient(150deg, rgba(0, 34, 60, 0.65) 15%, rgba(0, 48, 87, 0.65) 70%, rgba(20, 102, 167, 0.65) 94%);
     background: linear-gradient(150deg, rgba(0, 34, 60, 0.65) 15%, rgba(0, 48, 87, 0.65) 70%, rgba(20, 102, 167, 0.65) 94%);*/
-    background: linear-gradient(150deg, #C91330 15%, #650A18 70%, #650A18 94%)
+    background: linear-gradient(150deg, #1466A7 15%, #003057 70%, #00223C 94%);
 }
 .download-app-img{
     margin-top: -115px;
