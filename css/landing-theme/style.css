@@ -1042,7 +1042,7 @@ SECTION MARGIN
 
     .navbar.top-nav-collapse {
         padding: 0;
-        background: linear-gradient(150deg, #C91330 15%, #650A18 70%, #650A18 94%)
+        background: linear-gradient(150deg, #1466A7 15%, #003057 70%, #00223C 94%);
     }
 
     .navbar .navbar-brand {
