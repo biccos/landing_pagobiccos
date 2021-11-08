@@ -1982,6 +1982,7 @@ SECTION MARGIN
 }
 .single-promo-content{
     padding: 25px 25px 0;
+    min-height: 310px;
 }
 .single-promo-content span{
     font-size: 35px;
@@ -1995,9 +1996,11 @@ SECTION MARGIN
     line-height: 23px;
 }
 .single-promo-content p{
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     font-size: 14px;
-    letter-spacing: 0px;
+    letter-spacing: -0.56px;
+    line-height: 19px;
+    text-align: justify;
 }
 .single-promo-section .line{
     width: 100%;
@@ -2678,6 +2681,17 @@ SECTION MARGIN
     line-height: 22px;
     margin-bottom: 5px;
 }
+
+.feature-content p {
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.feature-image {
+    padding-top: 100px;
+}
+
 .single-feature:hover .icon{
     border-radius: 50%;
 }
