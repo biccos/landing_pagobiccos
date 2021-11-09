@@ -2696,6 +2696,12 @@ SECTION MARGIN
     border-radius: 50%;
 }
 
+.faq-section-wrap ul {
+    list-style: disc;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
 /*============================================================
 			12. TESTIMONIAL SECTION CSS
 ============================================================*/
@@ -2907,7 +2913,10 @@ SECTION MARGIN
 }
 
 #accordion .panel-body p {
-    margin: 0
+    margin: 0;
+    line-height: 20px;
+    text-align: justify;
+    margin-bottom: 10px;
 }
 
 
