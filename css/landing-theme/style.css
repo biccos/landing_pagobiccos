@@ -1097,6 +1097,7 @@ SECTION MARGIN
     line-height: 1.7;
     padding: 20px 0;
     color: #fff;
+    text-align: justify;
 }
 
 /*white indicator*/
